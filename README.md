@@ -79,7 +79,7 @@
 4. **安装其他项目依赖**
 
    ```bash
-   # 进入项目根目录，安装requirements.txt中列出的包
+   # 进入项目根目录，安装requirements.txt中列出的包（夸克网盘没有requirements.txt文件，需从该库中下载）
    pip install -r requirements.txt
    ```
 
